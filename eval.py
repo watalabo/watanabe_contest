@@ -40,22 +40,22 @@ for session in range(7):
     if groups[2] != 10:
         print("# of people in group 2 is %d" % (groups[0]))
         exit(-1)
-        
+
     if groups[3] != 10:
         print("# of people in group 3 is %d" % (groups[0]))
         exit(-1)
-        
+
     if groups[4] != 10:
         print("# of people in group 4 is %d" % (groups[0]))
         exit(-1)
-        
+
     if groups[5] != 10:
         print("# of people in group 5 is %d" % (groups[0]))
         exit(-1)
-        
+
     if groups[6] != 10:
         print("# of people in group 6 is %d" % (groups[0]))
-        exit(-1)        
+        exit(-1)
 
 
 durations = [0] * 70
